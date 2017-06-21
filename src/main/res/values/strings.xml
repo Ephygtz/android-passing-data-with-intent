@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="btn_send">Buton Send</string>
+    <string name="intent">Intent class</string>
+</resources>
